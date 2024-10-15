@@ -1,0 +1,10 @@
+{
+    "pack": {
+      "pack_format": 52,
+      "description": [
+        "NeoQuilt. A libery for creating custom blocks, items, and mobs with just a few lines of code.",
+        "-DATA-"
+      ]
+    }
+  }
+  

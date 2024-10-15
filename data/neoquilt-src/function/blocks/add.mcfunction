@@ -1,0 +1,1 @@
+$data modify storage neoquilt:$(packId) $(blockId) set value {packId:$(packId),blockId:$(blockId),extends:{$(extends)}}

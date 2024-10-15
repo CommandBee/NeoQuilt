@@ -1,0 +1,1 @@
+$give @p command_block[item_name='{"translate": "item.$(packId).$(itemId)"}',item_model='$(packId):$(itemId)',custom_data={$(packId):$(itemId)}]
