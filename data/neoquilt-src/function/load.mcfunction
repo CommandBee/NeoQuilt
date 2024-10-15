@@ -1,3 +1,16 @@
-say NeoQuilt Reloaded
+execute as @a[tag=NeoquiltDEV] run say NeoQuilt Reloaded
+scoreboard objectives add neoquilt.blockExtends dummy
 
-function #neoquilt:_use
+
+
+
+
+
+
+
+
+
+
+
+
+function #neoquilt:_oninitialize
