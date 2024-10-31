@@ -14,7 +14,7 @@
       }
     },
     "rewards": {
-      "function": "neoquilt-src:blocks/place/_place"
+      "function": "src-neoquilt:blocks/place/_place"
     }
   }
   

@@ -2,7 +2,7 @@
     "pack": {
       "pack_format": 57,
       "description": [
-        "NeoQuilt. A libery for creating custom blocks, items, and mobs with just a few lines of code.",
+        "NeoQuilt LIB.",
         "-DATA-"
       ]
     }

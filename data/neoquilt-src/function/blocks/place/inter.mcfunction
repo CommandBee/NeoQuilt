@@ -1,1 +1,0 @@
-$function neoquilt-src:blocks/place/setblock with storage neoquilt:$(packId) $(blockId)
